@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import { Content } from "./components";
+import { Container } from "./components/containerContent";
 
 function App() {
   return (
     <div className="App">
-      <Content />
+      <Container />
     </div>
   );
 }

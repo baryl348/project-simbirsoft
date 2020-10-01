@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(34, 180, 224);
+}
+
+.imgIcon {
+  width: 60px;
+  height: 60px;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-around;
+}
